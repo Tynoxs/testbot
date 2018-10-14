@@ -1,0 +1,2 @@
+nodemon music.js
+PAUSE
