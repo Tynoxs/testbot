@@ -3,8 +3,8 @@ const YTDL = require("ytdl-core");
 const chalk = require('chalk');
 const client = new Discord.Client();
 
-const TOKEN = "TOKEN-REDACTED"
-const PREFIX = "%"
+const TOKEN = "NTAxMTI5NjQ1NzQ0NDU1NzAw.DqU5Lw.jcaAGPaGn5_vZljw2C5BbB24UH0"
+const PREFIX = "/"
 
 function play(connection, message) {
     var server = servers[message.guild.id];
